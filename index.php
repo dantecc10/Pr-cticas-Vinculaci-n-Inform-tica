@@ -12,6 +12,9 @@
     <h1>Proyecto de prácticas profesionales</h1>
     <h2>Repositorio colaborativo de GitHub</h2>
     <p>Bienvenidos a este proyecto web; por Dante, Joshua, Jeremy, Mario, Mirna y Raúl.</p>
+
+
+    <p>Cambio...</p>
 </body>
 
 </html>
